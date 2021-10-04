@@ -1,0 +1,12 @@
+<Tweet>
+    <nombre>Pablo Casasdo Blanco</nombre>
+    <nombredeusuario>@P.Casado</nombredeusuario>
+    <Contenido>El cambio ya está aquí, estamos preparados para gobernar</Contenido>
+    <Retweets>8k</Retweets>
+    <MeGustas>15k</MeGustas>
+    <Comentarios>
+            <Comentario>pablo for the president</Comentario>
+            <Comentario>VIVA ESPAÑITA</Comentario>
+            <Comentario>Pedro Sanchez dimision</Comentario>
+    </Comentarios>
+</Tweet> 
