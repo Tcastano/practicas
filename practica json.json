@@ -1,0 +1,11 @@
+{
+	"TITULO":"Spiderman 2",
+	"Descripcion":"Peter Parker está en la universidad, sigue enamorado de Mary Jane y tiene muchos problemas",
+	"Year":"2004",
+	"Categoria":"Ciencia Ficcion",
+	"Duracion":"2h 7m",
+	"Director":"Sam Raimi",
+    "Actores": ["tobey Maguire","kristen Dunst"],
+	"Premios":"Ninugno",
+	"Puntuacion":"7.4/10"
+}
