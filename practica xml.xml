@@ -1,0 +1,21 @@
+
+<Pelicula>
+	<Titulo>Spiderman 2</Titulo>
+	<Descripcion> está en la universidad, sigue enamorado de Mary Jane Watson (Kirsten Dunst) y tiene muchos problemas </Descripcion>	
+	<Year>2004</Year>
+	<Categoria>Ciencia Ficcion</Categoria>
+	<Duracion>2h 7m</Duracion>
+	<Director>Sam Raimi</Director>	
+		<Reparto>
+			<Actor>
+				<nombre>tobey</nombre> 
+				<apellido>Maguire</apellido>
+			</Actor>
+			<Actor>
+				<Nombre>kristen</Nombre> 
+				<apellido>Dunst</apellido>
+			</Actor>
+		</Reparto>
+	<Premios>ninguno</Premios>
+	<Puntuacion>7.4/10</Puntuacion>
+</Pelicula>
